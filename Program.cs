@@ -5,7 +5,7 @@ using System.Text.Json;
 
 const string CONFIG_PATH = "config.json";
 
-if (!File.Exists("config.json"))
+if (!File.Exists(CONFIG_PATH))
 {
     Console.WriteLine("No config file");
     return;
