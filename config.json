@@ -1,0 +1,7 @@
+{
+  "FilterCriteria": ["24261981", "23701509", "32490244"],
+  "ColumnId": 1,
+  "StartingFrom": 2,
+  "InputPath": "/home/futupas/Downloads/8544_4-2023.xlsx",
+  "OutputPath": "/home/futupas/Downloads/out2.xlsx"
+}
